@@ -41,7 +41,7 @@ A **table** is the main structure of a database. It contains rows and columns wi
 
 - Manage information in rows and columns.
 - Store data related to an specific entity.
-- Each tabla has a unique name within the database.
+- Each table has a unique name within the database.
 
 ---
 
