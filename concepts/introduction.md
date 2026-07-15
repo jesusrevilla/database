@@ -20,8 +20,8 @@ A school can have a database to store students information:
 
 - Student Id
 - Name
-- email
-- Degree program
+- Degree Program
+- Year
 
 ---
 
